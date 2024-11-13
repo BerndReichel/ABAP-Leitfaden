@@ -13,6 +13,9 @@ nav_order: 12
 {:toc}
 
 
+## Einführung
+
+
 ## KI in der Entwicklung
 
 Aktuell ist das Thema AI ein Hypethema. Produkte/Lösungen wie ChatGPT,  Microsoft Copilot, Google GEMINI und SAP Joule werden überall diskutiert und finden in Lösungen ihre praktische Anwendung. Auch in der Softwareentwicklung werden diese Lösungen eingesetzt, sogar in der ABAP Entwicklung gibt es entsprechende AI Unterstützung, diese steckt zwar noch in den „Kinderschuhen“, aber es gibt diese schon, die Lösungen werden allerdings stetig weiterentwickelt, so dass diese bald aus den "Kinderschuhen" entwachsen werden.
