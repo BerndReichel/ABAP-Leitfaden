@@ -19,17 +19,77 @@ Eine Übersicht von ABAP Open Source Projekten findet sich auf [dotabap.org](htt
 
 ## Projekte zur Unterstützung des Entwicklungsprozesses
 
-|Name des Projektes|Beschreibung|Besitzer|Homepage|Erstellt am|Standardbranch|Programmiersprache|Lizenz|Sterne|Forks|offene Issues|geschlossene Issues|letzter Push|
-|:---              |:---                             |:---       |:---         | :---        |:---           |:---               |:---   |:---   |:---  |:---         |:---               |:---     
-|**abapOpenChecks**|Mit abapOpenChecks werden Prüfungen für den SAP Code Inspector und das ABAP Test Cockpit bereitgestellt|[larshp](https://github.com/larshp)|[docs.abapopenchecks.org](https://docs.abapopenchecks.org)|07.07.2014|main|ABAP|MIT License|265|79|304|439|24.10.2024|
-|**abaplint**|Mit abaplint können statische Codeanalysen für ABAP durchgeführt werden|[abaplint](https://github.com/abaplint)|[abaplint.org](https://abaplint.org)|20.12.2015|main|Hauptsächlich TypeScript (97,6 %), gefolgt von ABAP (1,7 %), JavaScript (0,6 %), CSS (0,1 %) und HTML sowie Less (< 0,1 %)|MIT License|224|70|370|1.588|24.10.2024|
-|**code pal for ABAP**|Mit Code Pal for ABAP werden ATC-Prüfungen bereitstellt, um ABAP-Programmierer\*innen bei der Einhaltung des Clean ABAP Style Guide zu unterstützen.|[SAP](https://github.com/SAP)|[code-pal-for-abap](https://github.com/SAP/code-pal-for-abap)|02.04.2020|master|ABAP|Apache License 2.0|362|69|32|237|19.08.2021|
-|**Code Pal for ABAP - Cloud Edition**|Mit Code Pal for ABAP - Cloud Edition werden ATC-Prüfungen bereitstellt, um ABAP-Programmierer\*innen bei der Einhaltung des Clean ABAP Style Guide zu unterstützen.|[SAP](https://github.com/SAP)|[code-pal-for-abap](https://github.com/SAP/code-pal-for-abap)|02.04.2020|master|ABAP|Apache License 2.0|362|69|32|237|19.08.2024|
-
-
-
 
 ### abapOpenChecks
+
+|Name des Projektes:     |abapOpenChecks
+|:---                    |:---
+|**Beschreibung:**       |Mit [abapOpenChecks](https://github.com/larshp/abapOpenChecks) werden Prüfungen für den SAP Code Inspector und das ABAP Test Cockpit bereitgestellt
+|**Besitzer:**           |[larshp](https://github.com/larshp)
+|**Homepage:**           |[docs.abapopenchecks.org](https://docs.abapopenchecks.org)
+|**Erstellt am:**        |07.07.2014
+|**Standardbranch:**     |main
+|**Programmiersprache:** |ABAP
+|**Lizenz:**             |MIT Licence
+|**Sterne:**             |265
+|**Forks:**              |79
+|**offene Issues:**      |304
+|**geschlossene Issues:**|439
+|**letzter Push:**       |24.10.2024
+
+### abaplint
+
+|Name des Projektes:     |abaplint
+|:---                    |:---
+|**Beschreibung:**       |Mit [abaplint/abaplint](https://github.com/abaplint/abaplint) können statische Codeanalysen für ABAP Durchgeführt werden
+|**Besitzer:**           |[abaplint](https://github.com/abaplint)
+|**Homepage:**           |[abaplint.org](https://abaplint.org)
+|**Erstellt am:**        |20.12.2015
+|**Standardbranch:**     |main
+|**Programmiersprache:** |Hauptsächlich TypeScript (97,6 %), gefolgt von ABAP (1,7 %), JavaScript (0,6 %), CSS (0,1 %) und HTML sowie Less (< 0,1 %)
+|**Lizenz:**             |MIT Licence
+|**Sterne:**             |224
+|**Forks:**              |70
+|**offene Issues:**      |370
+|**geschlossene Issues:**|1588
+|**letzter Push:**       |24.10.2024
+|**Besonderheit:**       |MS Visual Studio Code Erweiterung vorhanden
+
+### code pal for ABAP
+
+|Name des Projektes:     |code pal for abap
+|:---                    |:---
+|**Beschreibung:**       |Mit [Code Pal for ABAP](https://github.com/SAP/code-pal-for-abap) werden ATC-Prüfungen bereitstellt, um ABAP-Programmierer\*innen bei der Einhaltung des Clean ABAP Style Guide zu unterstützen
+|**Besitzer:**           |[SAP](https://github.com/SAP)
+|**Homepage:**           |[code-pal-for-abap](https://github.com/SAP/code-pal-for-abap)
+|**Erstellt am:**        |02.04.2020
+|**Standardbranch:**     |master
+|**Programmiersprache:** |ABAP
+|**Lizenz:**             |Apache License 2.0
+|**Sterne:**             |348
+|**Forks:**              |65
+|**offene Issues:**      |30
+|**geschlossene Issues:**|235
+|**letzter Push:**       |31.12.2021
+
+### code pal for ABAP - Cloud Edition
+
+|Name des Projektes:     |code pal for abap - cloud edition
+|:---                    |:---
+|**Beschreibung:**       |Mit [Code Pal for ABAP - Cloud Edition](https://github.com/SAP/code-pal-for-abap-cloud) werden ATC-Prüfungen bereitstellt, um ABAP-Programmierer\*innen bei der Einhaltung des Clean ABAP Style Guide in der ABAP Cloud ("Steampunk") zu unterstützen
+|**Besitzer:**           |[SAP](https://github.com/SAP)
+|**Homepage:**           |[code-pal-for-abap - cloud edition](https://github.com/SAP/code-pal-for-abap-cloud)
+|**Erstellt am:**        |02.04.2020
+|**Standardbranch:**     |main
+|**Programmiersprache:** |99,9 % ABAP, ABAP CDS 0,1 %
+|**Lizenz:**             |Apache License 2.0
+|**Sterne:**             |42
+|**Forks:**              |10
+|**offene Issues:**      |9
+|**geschlossene Issues:**|19
+|**letzter Push:**       |22.01.2025
+
+
 
 Mit [abapOpenChecks](https://github.com/larshp/abapOpenChecks) werden Prüfungen für den SAP Code Inspector und das ABAP Test Cockpit bereitstellt. Überblick:
 
